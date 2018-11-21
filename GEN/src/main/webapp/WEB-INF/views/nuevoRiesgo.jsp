@@ -14,7 +14,7 @@
         <div class="col-md-6">
             <div class="md-form">
                <input type="text" id="form1" class="form-control">
-    			<label for="form1" class="">Nombre del riesgo</label>
+    			<label for="form1" class="">Nombre del RIESGO</label>
             </div>
         </div>
 
